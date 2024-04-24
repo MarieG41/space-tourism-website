@@ -1,5 +1,5 @@
-import './index.css'
-import DesignSystem from './DesignSystem'
+import './app.css'
+import DesignSystem from './components/DesignSystem'
 
 function App() {
   return (
